@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **robinmitra789@gmail.com**
 
-- 📄 Know about my experiences [https://rxresu.me/robinmitra789/webresume](https://rxresu.me/robinmitra789/webresume)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1b_jjq4u0t5pT9PbOAOMABRHC4pdTF-aT/view?usp=drive_link)
 
 - ⚡ Fun fact **While many programmers prefer coffee as their coding companion, I find my inspiration in the rhythm of music.**
 
