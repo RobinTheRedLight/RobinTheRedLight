@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
-- 👨‍💻 All of my projects are available at [https://about-robin-mitra.netlify.app/](https://about-robin-mitra.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://about-robin-mitra.netlify.app/](https://about-robin-mitra.netlify.app/]
 
 - 💬 Ask me about **React, JavaScript, Express.js**
 
