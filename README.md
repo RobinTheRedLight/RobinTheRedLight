@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Robin Mitra</h1>
+<h1 align="center">Hi 👋, I'm Robin</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
 - 🔭 I’m currently working on **Demonstration project**
