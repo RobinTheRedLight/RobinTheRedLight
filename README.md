@@ -13,19 +13,14 @@
 ###
 
 <h4 align="left">
-- 🌱 I’m currently learning **Next.js**
-
-- 👯 I’m looking to collaborate on **Open Source Project**
-
-- 👨‍💻 All of my projects are available at [here](https://about-robin-mitra.netlify.app/)
-
-- 💬 Ask me about **React, TypeScript, C**
-
-- 📫 How to reach me **robinmitra789@gmail.com**
-
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1b_jjq4u0t5pT9PbOAOMABRHC4pdTF-aT/view?usp=drive_link)
-
-- ⚡ Fun fact **While many programmers prefer coffee as their coding companion, I find my inspiration in the rhythm of music.**
+  🔭 I’m currently working on **Demonstration project**
+  🌱 I’m currently learning **Next.js**
+  👯 I’m looking to collaborate on **Open Source Project**
+  👨‍💻 All of my projects are available at [here](https://about-robin-mitra.netlify.app/)
+  💬 Ask me about **React, TypeScript, C**
+  📫 How to reach me **robinmitra789@gmail.com**
+  📄 Know about my experiences [here](https://drive.google.com/file/d/1b_jjq4u0t5pT9PbOAOMABRHC4pdTF-aT/view?usp=drive_link)
+  ⚡ Fun fact **While many programmers prefer coffee as their coding companion, I find my inspiration in the rhythm of music.**
 </h4>
 
 ###
