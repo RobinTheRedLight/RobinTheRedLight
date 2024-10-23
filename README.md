@@ -12,15 +12,14 @@
 
 ###
 
-<h4>🔭 I’m currently working on <strong>Demonstration project</strong></h4>
-<h4>🌱 I’m currently learning <strong>Next.js</strong></h4>
-<h4>👯 I’m looking to collaborate on <strong>Open Source Project</strong></h4>
+<h4>🔭 I’m currently working on <u>Demonstration project</u></h4>
+<h4>🌱 I’m currently learning <u>Next.js</u></h4>
+<h4>👯 I’m looking to collaborate on <u>Open Source Project</u></h4>
 <h4>👨‍💻 All of my projects are available <a href="https://about-robin-mitra.netlify.app/" target="_blank">here</a></h4>
-<h4>💬 Ask me about <strong>React, TypeScript, C</strong></h4>
-<h4>📫 How to reach me <strong>robinmitra789@gmail.com</strong></h4>
+<h4>💬 Ask me about <u>React, TypeScript, C</u></h4>
+<h4>📫 How to reach me <u>robinmitra789@gmail.com</u></h4>
 <h4>📄 Know about my experiences <a href="https://drive.google.com/file/d/1b_jjq4u0t5pT9PbOAOMABRHC4pdTF-aT/view?usp=drive_link" target="_blank">here</a></h4>
-<h4>⚡ Fun fact <strong>While many programmers prefer coffee as their coding companion, I find my inspiration in the rhythm of music.</strong></h4>
-
+<h4>⚡ Fun fact <u>While many programmers prefer coffee as their coding companion, I find my inspiration in the rhythm of music.</u></h4>
 
 ###
 
