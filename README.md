@@ -15,10 +15,10 @@
 <h3>🔭 I’m currently working on - <u>Demonstration project</u></h4>
 <h3>🌱 I’m currently learning - <u>Next.js</u></h4>
 <h3>👯 I’m looking to collaborate on - <u>Open Source Project</u></h4>
-<h3>👨‍💻 All of my projects are available - <a href="https://about-robin-mitra.netlify.app/" target="_blank">here</a></h4>
+<h3>👨‍💻 All of my projects are available - <a href="https://about-robin-mitra.netlify.app/">here</a></h4>
 <h3>💬 Ask me about - <u>React, TypeScript, C</u></h4>
-<h3>📫 How to reach me - <a href="#" target="_blank">robinmitra789@gmail.com</a></h4>
-<h3>📄 Know about my experiences - <a href="https://drive.google.com/file/d/1b_jjq4u0t5pT9PbOAOMABRHC4pdTF-aT/view?usp=drive_link" target="_blank">here</a></h4>
+<h3>📫 How to reach me - <a href="#">robinmitra789@gmail.com</a></h4>
+<h3>📄 Know about my experiences - <a href="https://drive.google.com/file/d/1b_jjq4u0t5pT9PbOAOMABRHC4pdTF-aT/view?usp=drive_link">here</a></h4>
 <h3>⚡ Fun fact <u>While many programmers prefer coffee as their coding companion, I find my inspiration in the rhythm of music.</u></h4>
 
 ###
