@@ -13,7 +13,7 @@
 ###
 
 <h4 align="left">
-- 🔭 I’m currently working on **Demonstration project**
+ - 🔭 I’m currently working on **Demonstration project**
 
 - 🌱 I’m currently learning **Next.js**
 
