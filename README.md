@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="center">I’m a web developer with experience in building responsive applications using the MERN stack. I'm passionate about developing web solutions and constantly learning new technologies to enhance user experiences.</h4>
+<h3 align="center">I’m a web developer with experience in building responsive applications using the MERN stack. I'm passionate about developing web solutions and constantly learning new technologies to enhance user experiences.</h3>
 
 ###
 
@@ -12,7 +12,6 @@
 
 ###
 
-<div align="left">
   <h4>🔭 I’m currently working on **Demonstration project**</h4>
   <h4>🌱 I’m currently learning **Next.js**</h4>
   <h4>👯 I’m looking to collaborate on **Open Source Project**</h4>
@@ -21,7 +20,6 @@
   <h4>📫 How to reach me **robinmitra789@gmail.com**</h4>
   <h4>📄 Know about my experiences [here](https://drive.google.com/file/d/1b_jjq4u0t5pT9PbOAOMABRHC4pdTF-aT/view?usp=drive_link)</h4>
   <h4>⚡ Fun fact **While many programmers prefer coffee as their coding companion, I find my inspiration in the rhythm of music.**</h4>
-</div>
 
 ###
 
