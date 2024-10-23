@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/13vX6WNccrFTAyfP8rT2aVhGSNQIpelR0/view?usp=sharing)](https://about-robin-mitra.netlify.app/)
+[![MasterHead](https://i.ibb.co.com/VW3vxx5/robin.gif)](https://about-robin-mitra.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Robin Mitra</h1>
 <h3 align="center">A passionate Web Developer</h3>
