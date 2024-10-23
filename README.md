@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">I’m a web developer with experience in building responsive applications using the MERN stack. I'm passionate about developing web solutions and constantly learning new technologies to enhance user experiences.</h3>
+<h2 align="center">I’m a web developer with experience in building responsive applications using the MERN stack. I'm passionate about developing web solutions and constantly learning new technologies to enhance user experiences.</h2>
 
 ###
 
@@ -12,14 +12,14 @@
 
 ###
 
-<h4>🔭 I’m currently working on <u>Demonstration project</u></h4>
-<h4>🌱 I’m currently learning <u>Next.js</u></h4>
-<h4>👯 I’m looking to collaborate on <u>Open Source Project</u></h4>
-<h4>👨‍💻 All of my projects are available <a href="https://about-robin-mitra.netlify.app/" target="_blank">here</a></h4>
-<h4>💬 Ask me about <u>React, TypeScript, C</u></h4>
-<h4>📫 How to reach me <u>robinmitra789@gmail.com</u></h4>
-<h4>📄 Know about my experiences <a href="https://drive.google.com/file/d/1b_jjq4u0t5pT9PbOAOMABRHC4pdTF-aT/view?usp=drive_link" target="_blank">here</a></h4>
-<h4>⚡ Fun fact <u>While many programmers prefer coffee as their coding companion, I find my inspiration in the rhythm of music.</u></h4>
+<h3>🔭 I’m currently working on - <u>Demonstration project</u></h4>
+<h3>🌱 I’m currently learning - <u>Next.js</u></h4>
+<h3>👯 I’m looking to collaborate on - <u>Open Source Project</u></h4>
+<h3>👨‍💻 All of my projects are available - <a href="https://about-robin-mitra.netlify.app/" target="_blank">here</a></h4>
+<h3>💬 Ask me about - <u>React, TypeScript, C</u></h4>
+<h3>📫 How to reach me - <u>robinmitra789@gmail.com</u></h4>
+<h3>📄 Know about my experiences - <a href="https://drive.google.com/file/d/1b_jjq4u0t5pT9PbOAOMABRHC4pdTF-aT/view?usp=drive_link" target="_blank">here</a></h4>
+<h3>⚡ Fun fact <u>While many programmers prefer coffee as their coding companion, I find my inspiration in the rhythm of music.</u></h4>
 
 ###
 
@@ -91,14 +91,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RobinTheRedLight&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=default&hide_border=false&order=2" height="126" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=RobinTheRedLight&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="126" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=RobinTheRedLight&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="235" alt="streak graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RobinTheRedLight&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false&order=2" height="126" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=RobinTheRedLight&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="126" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=RobinTheRedLight&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="235" alt="streak graph"  />
 </div>
 
 ###
